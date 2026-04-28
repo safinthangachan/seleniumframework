@@ -15,20 +15,6 @@ This project is a web UI test automation framework built using Python, Selenium 
 ## 🛠 Tech Stack
 Python, Selenium WebDriver, PyTest, PyTest HTML, GitHub Actions, VS Code
 
-## 📁 Project Structure
-seleniumframework/
-├── pages/
-├── tests/
-├── utils/
-├── screenshots/
-├── logs/
-├── reports/
-├── conftest.py
-├── pytest.ini
-├── requirements.txt
-├── .gitignore
-└── .github/workflows/ci.yml
-
 ## ▶️ How to Run
 
 Install dependencies:
@@ -49,6 +35,3 @@ reports/report.html
 
 ## 🔄 CI/CD
 GitHub Actions runs tests automatically on every push to main branch.
-
-## 👨‍💻 Author
-Selenium Automation Framework Project
